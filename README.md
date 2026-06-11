@@ -1,23 +1,23 @@
-# Olá! Eu sou André Bayma 👋
+# Olá! Eu sou André Bayma 
 
-🎓 Estudante de Ciência da Computação
+ Estudante de Ciência da Computação na CESAR School
 
-💻 Interessado em Desenvolvimento de Software e Cibersegurança
+ Interessado em Desenvolvimento de Software e Cibersegurança
 
-📚 Atualmente estudando:
+ Atualmente estudando:
 - Python
 - JavaScript
 - Arduino
 - Git e GitHub
 
-🚀 Objetivos:
+ Objetivos:
 - Aprimorar minhas habilidades em programação
 - Desenvolver projetos práticos
 - Construir experiência na área de tecnologia
 
-## Contato
+# Contato
 
-📧 Email: andreluizbayma2008@gmail.com
+ Email: andreluizbayma2008@gmail.com
 
-🔗 LinkedIn:
+ LinkedIn:
 www.linkedin.com/in/andré-bayma-699b143b0
